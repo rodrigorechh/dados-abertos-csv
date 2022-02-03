@@ -1,0 +1,16 @@
+_id,coluna,tipo,rotulo,descricao
+be622ac3-ba95-480d-ba4b-b8c8eba9ab92,campus,text,Campus,Campus em que estuda beneficiário dos Auxílios Socioeconômicos.
+3291459c-0514-4c05-9ea2-aa0cf0c66811,matricula,text,Matrícula,Matrícula completa do beneficiário dos Auxílios Socioeconômicos.
+2997f316-8da3-4391-9eb8-00692285c7fc,cpf,text,CPF,Trecho do CPF do beneficiário dos Auxílios Socioeconômicos.
+b3d7944f-a267-461b-bc29-a8fb6bbb9d7b,ano,int4,Ano,Ano de referência do recebimento do Auxílio Socioeconômico.
+38a41548-47ba-4d4a-adc1-2a6e1d462295,mes,int4,Mês,Mês de referência do recebimento do Auxílio Socioeconômico.
+80a7acb5-0ae8-4e4c-a1bf-82c664c9e65a,nome,text,Nome do Beneficiário,Nome do beneficiário do Auxílio Socioeconômico.
+d81c8ce3-e277-41c9-aa09-56c71fe15239,Alimentação [1],numeric,Tipo de auxílio ganho.,Valor recebido em Alimentação I conforme Índice de Vulnerabilidade Socioeconômica do estudante.
+4d172223-b137-4ab0-9921-e03ab11e04c4,Alimentação [2],numeric,Tipo de auxílio ganho.,Valor recebido em Alimentação II conforme Índice de Vulnerabilidade Socioeconômica do estudante.
+169cdfe6-9f11-4af5-898d-e42679e1c884,Creche [1],numeric,Tipo de auxílio ganho.,Valor recebido em Creche conforme Índice de Vulnerabilidade Socioeconômica do estudante.
+d2948390-9290-4fa6-91f3-dca742655b92,Estudantil [1],numeric,Tipo de auxílio ganho.,Valor recebido em Estudantil conforme Índice de Vulnerabilidade Socioeconômica do estudante.
+2246800a-bec1-40df-8936-4da918feb0fc,Moradia [1],numeric,Tipo de auxílio ganho.,Valor recebido em Moradia conforme Índice de Vulnerabilidade Socioeconômica do estudante.
+d94500e2-1fde-4a54-866b-7600f467ad85,Transporte I [1],numeric,Tipo de auxílio ganho.,Valor recebido em Transporte I conforme Índice de Vulnerabilidade Socioeconômica do estudante.
+67800a14-70ea-44b9-abe1-ee3d1280c117,Transporte II [1],numeric,Tipo de auxílio ganho.,Valor recebido em Transporte II conforme Índice de Vulnerabilidade Socioeconômica do estudante.
+ca0c4b8d-870b-4f0a-820d-73571299f6d7,Transporte III [1],numeric,Tipo de auxílio ganho.,Valor recebido em Transporte III conforme Índice de Vulnerabilidade Socioeconômica do estudante.
+53a4d750-c30d-483d-8ac9-ead59d052950,data_atualizacao,text,Data de atualização do conjunto de dados.,Formato YYYY-MM-DD (ano-mês-dia).

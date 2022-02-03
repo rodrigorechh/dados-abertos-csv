@@ -1,0 +1,12 @@
+_id,coluna,tipo,rotulo,descricao
+e7e3ee96-bf82-4ca3-a856-ab70af9c7b56,projeto_registro,text,Nº Registro,Número de Registro do projeto de pesquisa no sistema Prisma
+accb870f-ae47-4761-afca-764f15aadee8,projeto_titulo,text,Título,Título do Projeto
+b3d70766-4993-4620-ab44-1f51c5c7676d,coordenador,text,Coordenador,Coordenador do Projeto
+cfa61ecf-335b-4417-81cf-e96adb965eb7,nome_campus,text,Campus,Campus do Projeto
+5878b7ff-24b7-4f14-ac0e-e138a2ee18f9,desc_area_cnpq,text,Grande Área CNPq,Área de conhecimento do projeto em relação o CNPQ
+ee45aab6-271d-440e-807f-b824107586c1,palavras_chave,text,Palavras-chave,Palavras-chave relacionadas ao projeto
+fba1e014-89f0-42e2-a645-0e51b010b72e,resumo,text,Resumo,Resumo descritivo do projeto de pesquisa
+f1b919d8-bcae-44a7-b030-d9e5c3f15706,modalidade,text,Modalidade,"Modalidade do projeto, quanto a natureza (Guarda-chuva ou Subprojeto)"
+b64d6577-9750-4095-a420-f5a2de032806,grupos_pesquisa,text,Grupos de Pesquisa,Grupo de Pesquisa ao qual o projeto está vinculado
+1c43dd0c-7875-4afd-a943-9c519b9bd7f1,projeto_pai_registro,text,Projeto Guarda-chuva,"Quando se referir a subprojeto, esta coluna remete ao número do Registro do Projeto Guarda-chuva ao qual o subprojeto está vinculado"
+68be39e9-9260-4066-8e1f-e681e3fd3d7c,data_atualizacao,date,Data de atualização do conjunto de dados.,Formato YYYY-MM-DD (ano-mês-dia).

@@ -1,0 +1,18 @@
+_id,coluna,tipo,rotulo,descricao
+6a617935-3d7e-4ca1-9c09-feeb285f760f,nome_campus,text,Campus de oferta da turma.,
+ab539c8e-8639-48f8-a7be-e2af5fc7e91b,ano,int4,Ano de oferta da turma.,
+475c438a-7c85-4c44-818a-dea478641ce0,semestre,int4,Semestre de oferta da turma.,
+5c919f24-5b42-4389-a3d3-0f7b19253697,cod_uffs,text,Código do curso na UFFS.,
+34114885-be01-403a-b78f-3afc9d9bccdd,cod_emec,text,Código do curso da UFFS no MEC.,
+2f4ad360-1ad2-4f70-91bf-9deae3d3f3c5,nome_curso,text,Nome do curso.,
+7d480499-91a1-4d67-b61d-33694929e46d,cod_ccr,text,Código do componente curricular na UFFS.,
+92bfd2e3-a72f-431f-9f48-71ea61a88bd6,nome_ccr,text,Nome do componente curricular na UFFS.,
+295efd45-62a2-44aa-bbde-94d205f6f055,id_turma,int8,Identificador da turma.,
+6ce474a1-3189-4fa7-947e-96fa9e418cef,desc_turma,text,Descrição da turma.,
+8d592168-8d7a-4210-9d31-72c0f42ad53a,lista_docentes_ch,text,Nome(s) do(s) docente(s) responsável(is) pela turma com a respectiva carga horária ministrada.,Formato da coluna: JSON
+620490d5-643d-4b89-9cba-bb2fd7bc5681,matricula_turma_id,text,Identificador do estudante.,
+7e186b7d-00a7-4c1d-ae15-25a02707a654,numero_faltas,int4,Número de faltas do estudante na turma.,
+4ec576ed-c2f8-4d6f-a7bb-de7d3de7cf70,freq_turma,numeric,Frequência (%) do estudante na turma.,
+aa1d9b80-317b-4b60-baba-0adec0b973c5,media_final,numeric,Média final do estudante na turma.,
+fe6fd510-37f7-41f1-a0ea-6a95411ddae7,sit_turma,text,Situação do estudante na turma.,
+3d43d318-8109-4a44-b804-989ad00735c2,data_atualizacao,date,Data de atualização do conjunto de dados.,Formato YYYY-MM-DD (ano-mês-dia).

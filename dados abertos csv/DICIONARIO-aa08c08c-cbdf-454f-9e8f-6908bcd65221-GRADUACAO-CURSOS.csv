@@ -1,0 +1,18 @@
+_id,coluna,tipo,rotulo,descricao
+1b69b9d7-81d3-4387-8882-a3add6cd2d5b,nome_campus,text,Campus de oferta do curso.,
+99a85ba2-eaf1-40c3-a9db-066f5b37b758,cod_uffs,text,Código do curso na UFFS.,
+187b9054-cc49-492c-8a92-154ea33be187,cod_emec,text,Código do curso da UFFS no MEC.,
+af9ef5cc-ef48-4c41-ae22-cf710be5f418,nome_curso,text,Nome do curso.,
+00aabcd9-5ee2-42d6-893f-b2139480d7ca,turno,text,Turno de oferta do curso.,
+62a75f1f-f6ab-4ee1-9269-9d800ed4b97c,in_func,date,Data de início de funcionamento do curso.,
+ce9de687-2aa4-4f81-8798-18129f0342cd,linha_formacao,text,Linha de formação do curso,
+a1435bee-106d-4cb5-98d2-14e5c2443698,modalidade,text,Modalidade de oferta do curso.,
+329e9ec5-3ce1-4094-8979-7833fda1b4c7,regime,text,Regime de oferta do curso.,
+5a5bb311-73ee-4e1e-8e8a-373e9bb227a9,formato,text,Formato de oferta do curso.,
+d9e614cd-8d8b-4b32-bce9-fd99fed767ae,coord_curso,text,Coordenador(a) titular do curso.,
+d3021c33-cb24-4a9d-ba4c-42e1efdf8090,autorizacao,text,Ato de autorização de oferta do curso na UFFS.,
+5551cf41-f833-4478-bc6d-2c23b0fb475f,reconhecimento,text,Portaria de reconhecimento do curso junto ao MEC.,
+449469a9-092d-4e88-93a5-e5aba3218e01,renov_reconhecimento,text,Portaria de renovação do reconhecimento do curso junto ao MEC.,
+14e5869d-1972-4412-8f68-84373771d6df,possui_matriz_em_andamento,text,O curso possui matriz curricular em andamento.,
+0a09683c-0b0c-4d86-86d0-9bef09d60e3a,possui_matriz_permite_ingresso,text,O curso permite o ingresso de novos estudantes.,
+2215e51c-97d2-4665-8f26-4547c9e755e6,data_atualizacao,text,Data de atualização do conjunto de dados.,Formato YYYY-MM-DD (ano-mês-dia).

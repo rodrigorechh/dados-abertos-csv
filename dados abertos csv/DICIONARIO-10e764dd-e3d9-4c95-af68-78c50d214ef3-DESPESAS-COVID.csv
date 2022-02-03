@@ -1,0 +1,15 @@
+_id,coluna,tipo,rotulo,descricao
+83e42c7b-02fc-4659-a7d7-6e52b7bece56,ano,integer,Ano,Ano de execução da despesa
+8eccec88-3bd9-494b-890a-ed6db708e9a3,objeto,text,Objeto,
+e11153ee-74d8-411f-b81d-f888113e4d1b,beneficiario_codigo,integer,Código do Beneficiário,Código identificador do beneficiário
+9fe0ec53-8533-4f7e-907a-5367b5d568fe,beneficiario,text,Beneficiário,Nome do Beneficiário
+ceb59634-d568-4ebb-bc55-714c2382d190,valor_ajuste,numeric,Valor Total,Valor total do ajuste
+040496ae-2dab-4717-b389-5415a629a34e,valor_parcela,numeric,Valor da Parcela,Valor da parcela a ser executada no ano
+7dcc0c3a-d771-48a7-aa7c-a2e3f8ece9c2,empenho,text,Empenho,Nota de Empenho
+2a003ec3-ae27-40f4-87f7-debfb538829e,item,text,Item,Descrição do Item
+1f2b19c8-d555-4ffc-a3eb-f31c7b021c57,favorecido_cnpj,text,CNPJ do Favorecido,
+8a2c159a-297c-4541-bceb-17a93a002999,favorecido,text,Favorecido,Nome do Favorecido
+12eeba9c-6a2c-4813-bc11-4d5aba8c27a6,pregao,text,Pregão,Identificador do Pregão: número/ano
+cb274aa5-0e44-4c86-a507-496e27f71345,processo_numero,text,Número do Processo,Número identificador do processo no sistema da UFFS
+ec26b4c5-0f81-4090-86da-3356830ab59f,processo,text,Processo,Título do Processo
+bc93d6f2-f3d8-40bb-9e40-4ba5993f8549,data_atualizacao,text,Data de atualização do conjunto de dados.,Formato YYYY-MM-DD (ano-mês-dia).

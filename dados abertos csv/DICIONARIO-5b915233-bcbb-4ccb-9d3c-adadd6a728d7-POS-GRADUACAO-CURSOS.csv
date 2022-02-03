@@ -1,0 +1,18 @@
+_id,coluna,tipo,rotulo,descricao
+0410c536-9f27-4622-85ae-483d2d8aba9c,"id_curso
+",text,"Código identificador do Curso
+",
+c1b4b3f5-ca58-49ac-98d4-1d771e78a262,nome,text,Nome do Curso,
+da3c0e81-f940-494f-a490-6e0715ae1057,nome_campus,text,Nome do Campus,
+9ca6043d-1140-4cfe-bf3d-b2a988b08139,municipio,text,Município do Campus,
+d63d1915-46e4-4079-a4b5-5515bacb1299,uf,varchar,Unidade Federativa (UF) do Campus,
+825b1f82-ea79-4c00-bf05-1e4ed107d460,coordenador,text,Coordenador do Curso,
+756ce94a-261d-4599-8a48-e1f189ad5b93,situacao_curso,text,Situação do Curso,
+779011ed-cc12-4cb0-bf8d-80ef6c3f8810,ciclo_academico,text,Ciclo Acadêmico,
+34a090d2-729a-4c34-a4f7-5aa7f78696f5,nivel_academico,text,Nível acadêmico,
+7c97b227-e89c-459a-8391-06714e01450c,modalidade,text,Modalidade de educação do Curso,
+05cf1c66-d0e9-410d-be72-8a2ad96f39d2,regime,text,Regime do Curso,
+9d8589f9-289c-4b63-a8e9-ecc6d7811af2,area_capes,text,Área de Conhecimento do Curso,
+1a41d421-aeb8-478b-a43b-d954da165bfa,homepage_curso,text,Sitio contendo mais informações sobre o Curso,
+2015a7a7-bc6d-4fe3-a20b-d1f291f6f795,programa,text,Programa acadêmico responsável pelo Curso,
+18c2ae48-edc2-4640-b542-4ff412a5bca0,data_atualizacao,date,Data de atualização do conjunto de dados.,Formato YYYY-MM-DD (ano-mês-dia).

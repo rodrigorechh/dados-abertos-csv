@@ -1,0 +1,16 @@
+_id,coluna,tipo,rotulo,descricao
+49ce9b4b-3a4c-453c-9740-27b564828d03,numero_matricula,text,"Matrícula do Discente
+",
+0412ccdb-734c-4107-9e05-b588f5a8d8d3,nome_publico,text,Nome do Discente,
+e4aefa8f-6034-4114-a1eb-4ab5046e0c27,ano_oferta,int4,Ano da Oferta,
+98aed019-be9f-47a6-95b3-621fd08c5ad1,semestre_oferta,int4,Semestre da Oferta,
+4fbfb748-2872-45ae-82d8-4e12ddfdaaeb,modo_ingresso,text,Modo de Ingresso,
+1cfe432c-90a2-467d-8a8f-1fcb5fb3f087,tipo_discente,text,Tipo de Discente,"""Regular;"""
+2384865e-4888-4ad5-86a1-180eef90879d,situacao,text,Situação da Matrícula do Discente,
+f09313f6-2390-4c0a-aee1-0a0f5357f3d0,ciclo_academico,text,Ciclo Acadêmico,
+0157b6f7-992a-4adc-9f71-baabfa510724,nivel_academico,text,Nível acadêmico,
+3e51afe3-66be-4110-a9b9-9d34247d4eaf,id_curso,text,Código identificador do Curso,
+95fb9bd0-fcd3-4895-92f7-da5956000fb7,nome_curso,text,Nome do Curso,
+b34f350e-9a76-43f2-bcf0-422e5e56bd10,modalidade,text,Modalidade de educação do Curso,
+97ed6c53-3c18-4c8b-8b09-fd6844768a8b,nome_campus,text,Nome do Campus,
+fbb1f97e-bb95-4547-9748-6c818a79ead7,data_atualizacao,date,Data de atualização do conjunto de dados.,Formato YYYY-MM-DD (ano-mês-dia).

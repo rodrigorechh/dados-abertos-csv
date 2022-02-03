@@ -1,0 +1,22 @@
+_id,coluna,tipo,rotulo,descricao
+7cc42da4-7697-49f5-8d86-82364eb750b5,nome_campus,text,,
+cbbdf306-f091-426f-9744-ad81b4258dc5,ano,int4,Ano de oferta da turma.,
+8bf6a5c6-1f10-4faa-880f-cc1002fcabbd,semestre,int4,Semestre de oferta da turma.,
+447b0ca3-7739-45de-91dd-3cb62941fce4,cod_ccr,text,Código do componente curricular na UFFS.,
+ffcc50c9-f79a-4f37-ba9e-33a851c1f8dd,nome_ccr,text,Nome do componente curricular na UFFS.,
+32a7ad09-e095-40e1-926c-aa01b4ffd056,cr_ccr,numeric,Créditos do componente curricular na UFFS.,
+e4bf4d29-25a8-4bd8-85ec-225477222189,ch_ccr,numeric,Carga horária do componente curricular na UFFS.,
+bf0f8c69-0be3-41d6-831c-56e3e6005fe9,id_turma,int8,Identificador da turma.,
+d40ea16f-0a8f-42b5-8357-34e656526717,desc_turma,text,Descrição da turma.,
+b5221be8-6e62-4c47-9c98-fc22b91a13b3,tem_turma,text,Temática da turma.,
+8b3ba11c-89bb-48f0-9a1c-7afa4e581709,cod_uffs_curso_turma,text,Código do curso de oferta da turma.,
+e409e308-ffd2-4a88-9c48-b79bb4e5b8cf,curso_turma,text,Curso de oferta da turma.,
+d6412a38-7416-460d-9e7a-570af4cbf377,fase_turma,int4,Fase de oferta da turma.,"""-1: Fase não informada; 0: Fase não encontrada;"""
+b683e9a6-a73a-4da0-9217-8f4e57047a32,lista_docentes_ch,text,Nome(s) do(s) docente(s) responsável(is) pela turma com a respectiva carga horária ministrada.,Formato da coluna: JSON
+20fe5b44-9928-4421-a6fd-efdc338264d9,ch_teorica,int8,Carga horária teórica ministrada.,
+a17dc6f2-ee51-44a9-b075-012003fc398e,ch_pratica,int8,Carga horária prática ministrada.,
+62920b00-e2a0-49b4-9776-c74b96899990,vagas_turma,int4,Número de vagas na turma.,
+f1e3b5af-fdaf-414b-a942-19a03bb4dcb1,qtd_inscritos,int8,Quantidade de estudantes inscritos na turma.,
+861b57a0-b8cb-4680-a93e-68ce10484968,qtd_concluiram,int8,Quantidade de estudantes que concluíram na turma.,
+1a27e3fa-cf3b-42e4-b2c1-70507728cad2,sit_turma,text,Situação da turma.,
+13e9f6e2-77ed-4ed3-8873-ae0911a76523,data_atualizacao,date,Data de atualização do conjunto de dados.,Formato YYYY-MM-DD (ano-mês-dia).

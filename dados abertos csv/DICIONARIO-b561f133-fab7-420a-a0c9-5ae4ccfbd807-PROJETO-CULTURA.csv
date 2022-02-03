@@ -1,0 +1,10 @@
+_id,coluna,tipo,rotulo,descricao
+15f72bb8-4b37-45e0-aa2e-9e4aa6f1f417,projeto_registro,text,Nº Registro,Número de Registro do projeto de cultura no sistema Prisma
+d0deffc1-d51f-46d4-b556-209586dd3c38,projeto_titulo,text,Título,Título do Projeto
+4ebb2c4c-3cca-44f0-bee8-1cb0a21790d5,coordenador,text,Coordenador,Coordenador do Projeto
+a360e1bc-ef34-4918-9f78-d43f19190801,nome_campus,text,Campus,Campus do Projeto
+3498b2c1-0d7e-4123-bc34-de2817abad30,desc_area_cnpq,text,Grande Área CNPq,Área de conhecimento do projeto em relação o CNPQ
+0bd50a56-df67-4c7a-b425-3f9fb9db0780,palavras_chave,text,Palavras-chave,Palavras-chave relacionadas ao projeto
+138de334-e865-451b-b6c7-a1bf7cdabdf8,resumo,text,Resumo,Resumo descritivo do projeto de cultura
+aacc75b3-12e2-48ef-bb50-f1cc1a6aa826,modalidade,text,Modalidade,Modalidade do projeto
+76159391-20da-4162-bb8c-b91df51d018f,data_atualizacao,date,Data de atualização do conjunto de dados.,Formato YYYY-MM-DD (ano-mês-dia).

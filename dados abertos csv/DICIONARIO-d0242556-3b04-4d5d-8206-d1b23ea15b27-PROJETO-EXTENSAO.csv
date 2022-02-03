@@ -1,0 +1,10 @@
+_id,coluna,tipo,rotulo,descricao
+5954c2bd-62d4-46e3-b513-38eab98bb320,projeto_registro,text,Nº Registro,Número de Registro do projeto de extensão no sistema Prisma
+013af0b9-3aa3-4025-9d9e-16f645d4f8c8,projeto_titulo,text,Título,Título do Projeto
+2666f78b-f3c0-40b4-b353-279f62265d11,coordenador,text,Coordenador,Coordenador do Projeto
+4bc96f81-4331-44fd-937b-a9ad85a03fe1,nome_campus,text,Campus,Campus do Projeto
+5bd8d41c-6a8d-4bde-a717-6051ff808a81,desc_area_cnpq,text,Grande Área CNPq,Área de conhecimento do projeto em relação o CNPQ
+d2287d4d-d37a-4027-a6d7-5fc18a122614,palavras_chave,text,Palavras-chave,Palavras-chave relacionadas ao projeto
+0037823d-8d97-4b42-b32e-30907fc32e81,resumo,text,Resumo,Resumo descritivo do projeto de extensão
+babdd26e-a5a1-49b3-88d1-716c29cc27e5,modalidade,text,Modalidade,Modalidade do projeto
+b3bd7ce9-3f27-4dc6-9da0-b685ae3e3e83,data_atualizacao,date,Data de atualização do conjunto de dados.,Formato YYYY-MM-DD (ano-mês-dia).

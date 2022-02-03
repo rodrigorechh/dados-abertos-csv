@@ -1,0 +1,30 @@
+_id,coluna,tipo,rotulo,descricao
+3fa4bda5-1caa-4cee-97d9-e38b8a6d4244,raca,text,Raça do estudante.,
+f260bcea-ce6d-4477-8829-6b51ee6be23f,genero,text,Sexo/gênero do estudante.,
+e77970da-e1be-439a-9ca8-4c2e763637ef,ano_ingresso,int4,Ano de ingresso do estudante no curso.,
+6218269a-afc2-423a-bb4c-5c96cf8a6f67,semestre_ingresso,int4,Semestre de ingresso do estudante no curso.,
+8869e8ba-e50a-46a0-a926-e13c29817d9a,forma_ingresso,text,Forma de ingresso do estudante no curso.,ENEM – Processo seletivo regular.
+f04c6621-da91-4625-be75-836d8db34bd7,modalidade_inscricao,text,Modalidade de ingresso do estudante no curso.,"“L1 - Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário-mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012);
+L2 - Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário-mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012);
+L5 - Candidatos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012);
+L6 - Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012);
+L9 - Candidatos com deficiência que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012);
+L10 - Candidatos com deficiência autodeclarados pretos, pardos ou indígenas, que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012);
+L13 - Candidatos com deficiência que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012);
+L14 - Candidatos com deficiência autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012);
+AC - Ampla Concorrência;
+A1 - Candidatos que tenham cursado o ensino médio parcialmente em escola pública (ao menos um ano com aprovação) ou em escola de direito privado sem fins lucrativos, cujo orçamento da instituição seja proveniente do poder público, em pelo menos 50%;
+A2 - Vagas reservadas a candidatos(as) indígenas, condição que deve ser comprovada mediante apresentação do Registro Administrativo de Nascimento de Indígena (RANI) ou declaração atestada pela Fundação Nacional do Índio (FUNAI);
+N/A - Não se aplica.”"
+7a90a953-9b1f-424c-a163-55ffc3f7ebbd,sit_matricula,text,Situação de matrícula do estudante no curso.,
+9e784b71-9336-4d65-9110-99a137a33aa4,cod_uffs,text,Código do curso na UFFS.,
+130c7717-c24a-4391-a4d9-8a70086b0812,cod_emec,text,Código do curso da UFFS no MEC.,
+1eb7a7a5-829b-41a2-b1cb-0d7259b1955f,nome_curso,text,Nome do curso.,
+4a599981-016c-4109-9314-d74924594c35,modalidade,text,Modalidade de oferta do curso.,
+7203dab9-2736-429a-9816-2caf4e737079,linha_formacao,text,Linha de formação do curso.,
+ecd3c792-ab74-48d6-874b-9f74d674dd2e,turno,text,Turno de oferta do curso.,
+e425052d-5eff-4911-9e43-175da8b41db6,desc_matriz,text,Descrição da matriz curricular do curso de graduação do estudante.,
+a9cfa115-045c-48b4-8698-a54918ecd9ab,nome_campus,text,Campus de oferta do curso.,
+00ea5feb-0a88-4315-bca4-cbad098cac54,regime,text,Regime de oferta do curso.,
+5bc22cce-bd82-4195-a439-3e23e369f097,formato,text,Formato de oferta do curso.,
+77dc7e4c-8454-4f5e-b45f-836ab334cd8d,data_atualizacao,date,Data de atualização do conjunto de dados.,Formato YYYY-MM-DD (ano-mês-dia).

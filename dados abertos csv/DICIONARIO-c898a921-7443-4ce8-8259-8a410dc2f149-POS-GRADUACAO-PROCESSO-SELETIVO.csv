@@ -1,0 +1,9 @@
+_id,coluna,tipo,rotulo,descricao
+123d2938-9c02-49f2-bd3c-cfcaca61717e,processo_seletivo,text,Processo Seletivo,
+dbbf48bd-4e02-4960-9ef0-283453e2a697,nome_curso,text,Nome do Curso,
+eb42158f-a5d8-4324-834f-2307b0a5584e,semestre_oferta,int4,Semestre da Oferta,
+fc75a52d-7010-432b-bcd9-740e6f7a785c,ano_oferta,int4,Ano da Oferta,
+db6b6c1f-8109-42d0-a30a-76432a8a11aa,data_inicio_matriculas,date,Data incial do período de Matrículas,Formato YYYY-MM-DD (ano-mês-dia).
+9d4b1559-7a2c-4c03-9fe6-4ea1ae571bf3,data_fim_matriculas,date,Data final do período de Matrículas,Formato YYYY-MM-DD (ano-mês-dia).
+6c1b6466-727b-402b-ba94-33b1015fc5bb,vagas,int4,Número de vagas,
+32aa23d0-bafa-4e04-bd58-c86f69ed39e1,data_atualizacao,date,Data de atualização do conjunto de dados.,Formato YYYY-MM-DD (ano-mês-dia).

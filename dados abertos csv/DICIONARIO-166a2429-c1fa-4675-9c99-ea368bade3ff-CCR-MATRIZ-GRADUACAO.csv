@@ -1,0 +1,17 @@
+_id,coluna,tipo,rotulo,descricao
+64827c80-a24e-4970-8cc3-53e6db01e09a,cod_ccr,text,,
+ff689bc3-1386-4fa0-b4b3-88c6292c2ab1,nome_ccr,text,Nome do componente curricular na UFFS.,
+5c4b3cd8-3173-4c68-a567-e48c101262d0,cr_ccr,numeric,Créditos do componente curricular na UFFS.,
+d9170e85-0b4a-4e3a-ac53-35f6daeda443,ch_ccr,numeric,Carga horária do componente curricular na UFFS.,
+692f4d3b-6481-4726-aab7-3b3fdcd6ded9,desc_matriz,text,Matriz curricular em que o componente curricular está vinculado.,
+269efae4-2ce0-485c-a93c-f17c4e3c8719,fase_oferta,int4,Fase de oferta do componente curricular.,"""0: CCR Optativo;"""
+1a281442-3fe4-4cd7-bcb1-33e6d49368ea,ccr_obrigatorio,text,Componente curricular obrigatório.,
+94016795-0bc6-470a-96a0-aa6b75a780da,ccr_optativo,text,Componente curricular optativo.,
+84ff0e24-4e63-43ac-906a-313274832a06,nome_campus,text,Campus de oferta do curso.,
+cbca1553-298e-4b78-9228-87c39a3e1336,cod_uffs,text,Código do curso na UFFS.,
+7c09f72d-d209-4f90-80dc-11ccbb02e140,cod_emec,text,Código do curso da UFFS no MEC.,
+e2994d79-8bcc-4ed5-956a-5fa471c752c6,nome_curso,text,Nome do curso.,
+160b9ff7-ebaa-40e3-b296-1337124278f4,turno,text,Turno de oferta do curso.,
+aa032d96-d394-4066-9321-93d38e93639e,per_ingresso,text,Permite ingresso de estudantes na matriz curricular.,
+9574477e-23f0-4991-a273-8b0317de48ef,em_andamento,text,A matriz curricular está em andamento no curso.,
+e50bc864-2f0c-467b-aabe-ddd54dd3e287,data_atualizacao,date,Data de atualização do conjunto de dados.,Formato YYYY-MM-DD (ano-mês-dia).
